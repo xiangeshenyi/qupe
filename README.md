@@ -1,1 +1,1 @@
-# quantum_metrology
+# quantum paramenter estimater / quantum metrology

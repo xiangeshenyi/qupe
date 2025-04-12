@@ -1,1 +1,1 @@
-# quantum paramenter estimater / quantum metrology
+# quantum paramenter estimation / quantum metrology
